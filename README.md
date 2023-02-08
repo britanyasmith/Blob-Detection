@@ -38,7 +38,7 @@ are drawn with radius based on the scale that each blob was detected at.
 
 
 ## How to Run 
-In order to test the code, run the function, report_generator.m. This acts as the main function. 
+In order to test the code, run the function report_generator.m. This acts as the main function. 
 
 detectBlob.m -> Detects the Blob and Outputs the final image with Blob 
 localExtrema -> Finds the extrema 
