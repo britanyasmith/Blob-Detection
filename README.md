@@ -1,6 +1,6 @@
 # Blob Detection
 <p align="center">
-  <img width="500" height="400" src="/ButterflyExample.png" />
+  <img width="800" height="400" src="/ButterflyExample.png" />
 </p>
 
 ## This branch contains UGVLidar instructions for performing autonomous navigation and obstacle avoidance using the Husky Robot for sp22Robot. This includes the instructions for performing all these tasks within Ubuntu and ROS as well as the code to manually move the robot a certain x, y, and theta distance. 
